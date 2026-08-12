@@ -1,0 +1,4 @@
+interface:
+  display_name: "从 0 到 1 交付手机 App"
+  short_description: "通过主动澄清和阶段验收，交付真实可体验的手机 App"
+  default_prompt: "使用 $ship-mobile-app-0-to-1，把我还不完整的手机 App 想法推进成可在真机体验和验收的产品。"
