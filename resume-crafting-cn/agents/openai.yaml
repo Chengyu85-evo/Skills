@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文简历生成"
+  short_description: "采访提炼经历，生成一页中文 PM 简历"
+  default_prompt: "使用 $resume-crafting-cn 采访并整理我的经历，生成一份高质量的一页中文产品经理简历。"
+
+policy:
+  allow_implicit_invocation: true
